@@ -1,0 +1,30 @@
+[submodule "runtimepath/bundles/vim-surround"]
+	path = runtimepath/bundles/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "runtimepath/bundles/VOoM"]
+	path = runtimepath/bundles/VOoM
+	url = https://github.com/vim-scripts/VOoM.git
+[submodule "runtimepath/bundles/closetag"]
+	path = runtimepath/bundles/closetag
+	url = https://github.com/docunext/closetag.vim
+[submodule "runtimepath/bundles/conque-term"]
+	path = runtimepath/bundles/conque-term
+	url = https://github.com/rosenfeld/conque-term.git
+[submodule "runtimepath/bundles/delimitMate"]
+	path = runtimepath/bundles/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "runtimepath/bundles/minibufexplorer"]
+	path = runtimepath/bundles/minibufexplorer
+	url = https://github.com/fholgado/minibufexpl.vim.git
+[submodule "runtimepath/bundles/nerdtree"]
+	path = runtimepath/bundles/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "runtimepath/bundles/pep8"]
+	path = runtimepath/bundles/pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "runtimepath/bundles/pyflakes-pathogen"]
+	path = runtimepath/bundles/pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "runtimepath/bundles/Pydiction"]
+	path = runtimepath/bundles/Pydiction
+	url = https://github.com/vim-scripts/Pydiction.git
